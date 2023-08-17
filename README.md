@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Mahesh Ahire and I'm from India  🇮🇳</p>
+
+###
 
 🚀 Accomplished Full Stack Developer and Hybrid-Mobile App Expert | 📚 Lifelong Seeker of Technical Mastery
 ⭐️ Committed to delivering top-tier solutions by leveraging a deep history of crafting software within the computersoftware industry. 
