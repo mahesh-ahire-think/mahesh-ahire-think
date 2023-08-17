@@ -19,6 +19,19 @@ and surmounting challenges to nurture both my skills and the solutions I create.
 🔧 Equipped with an arsenal of technical prowess, backed by a Bachelor of Engineering (BE) in Information Technology from the University of Pune. Enthusiastic about staying at the forefront of emerging trends and technologies.
 With a strong engineering foundation and a passion for cutting-edge technologies, I am poised to engineer solutions that not only meet but exceed expectations, forging a path toward innovative excellence.
 
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+
 ✨ Crafting seamless software solutions with precision and passion 💻 
 📚 Lifelong learner, constantly exploring new technologies 🌟 
 🎯 Goals: Pushing boundaries and building impactful applications 🚀
